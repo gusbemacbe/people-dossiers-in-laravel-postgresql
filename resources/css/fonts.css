@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap');
+
+@font-face
+{
+  font-display: swap;
+  font-family: 'Piltover';
+  font-style: normal;
+  font-weight: normal;
+  src: url('../fonts/Beaufort for LOL Regular.otf') format('opentype');
+}
+
+@font-face
+{
+  font-display: swap;
+  font-family: 'Piltover';
+  font-style: normal;
+  font-weight: bold;
+  src: url('../fonts/Beaufort for LOL Bold.otf') format('opentype');
+}
+
+@font-face
+{
+  font-display: swap;
+  font-family: 'Piltover';
+  font-style: italic;
+  font-weight: normal;
+  src: url('../fonts/Beaufort for LOL Italic.otf') format('opentype');
+}
+
+@font-face
+{
+  font-display: swap;
+  font-family: 'Piltover';
+  font-style: italic;
+  font-weight: bold;
+  src: url('../fonts/Beaufort for LOL Bold Italic.otf') format('opentype');
+}
+
+@font-face
+{
+  font-display: swap;
+  font-family: 'Iwona';
+  font-style: normal;
+  font-weight: normal;
+  src: url('../fonts/Iwona Regular.otf') format('opentype');
+}
+
+@font-face
+{
+  font-display: swap;
+  font-family: 'Iwona';
+  font-style: normal;
+  font-weight: bold;
+  src: url('../fonts/Iwona Bold.otf') format('opentype');
+}
+
+@font-face
+{
+  font-display: swap;
+  font-family: 'Iwona';
+  font-style: italic;
+  font-weight: normal;
+  src: url('../fonts/Iwona Italic.otf') format('opentype');
+}
+
+@font-face
+{
+  font-display: swap;
+  font-family: 'Iwona';
+  font-style: italic;
+  font-weight: bold;
+  src: url('../fonts/Iwona Bold Italic.otf') format('opentype');
+}
+
+@font-face
+{
+  font-display: swap;
+  font-family: 'Eternals';
+  font-style: italic;
+  font-weight: bold;
+  src: url('../fonts/Caesar.ttf') format('truetype');
+}
