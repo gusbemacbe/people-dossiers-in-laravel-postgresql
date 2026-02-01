@@ -1,5 +1,7 @@
 # Registro de pessoas de diversos palentas
 
+Terra, Piltover e Olímpia (planeta dos Eternos). Inclui os personagens de Star Trek e Star Wars.
+
 Uma demonstração arquitetônica *full stack* usando Laravel 11, Vue 3 e PostgreSQL.
 
 Projetado para emular a estética dos Arquivos do Conselho de Piltover e dos Eternos (do filme *Eternos*).
