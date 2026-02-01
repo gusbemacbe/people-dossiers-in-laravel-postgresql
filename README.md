@@ -1,4 +1,4 @@
-# Registro de pessoas de diversos palentas
+# Registro de pessoas de diversos planetas
 
 Terra, Piltover e Olímpia (planeta dos Eternos). Inclui os personagens de Star Trek e Star Wars.
 
